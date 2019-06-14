@@ -60,3 +60,11 @@ PermitRootLogin yes
 PubkeyAuthentication yes
 PasswordAuthentication yes
 ====================================
+
+
+
+Publish over SSH
+Youcan use this by use the plugin Publish over SSH
+SSH Servers
+Add the dockeradmin user and password, and test it.
+In the jenkins job use the "send file over ssh"
