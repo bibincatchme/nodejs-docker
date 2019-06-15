@@ -55,11 +55,11 @@ EOF
 
 
 
-============================================
+Entries in sshd_conf
 PermitRootLogin yes
 PubkeyAuthentication yes
 PasswordAuthentication yes
-====================================
+
 
 
 
